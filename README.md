@@ -41,7 +41,7 @@ Saya memakai dataset publik **`bigquery-public-data.thelook_ecommerce`** di Goog
 | 4 | Siapa pelanggan yang memesan, dan bagaimana status pesanannya? | `INNER JOIN`, `ON`, alias tabel |
 | 5 | Kategori mana yang penjualannya paling besar? | `JOIN`, `SUM`, `GROUP BY`, `ORDER BY` |
 
-Semua query bisa kamu lihat di [`mini_project_sesi5.sql`](mini_project_sesi5.sql).
+query bisa dilihat di [`mini_project_sesi5.sql`](mini_project_sesi5.sql).
 
 ## Hasil dan Insight
 
