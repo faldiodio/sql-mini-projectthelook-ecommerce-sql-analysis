@@ -43,9 +43,6 @@ Saya memakai dataset publik **`bigquery-public-data.thelook_ecommerce`** di Goog
 
 query bisa dilihat di [`mini_project_sesi5.sql`](mini_project_sesi5.sql).
 
-## Hasil dan Insight
-
-> Catatan: TheLook rutin memperbarui datanya, jadi angkamu bisa sedikit beda kalau menjalankan query di hari lain. Saya menjalankan query ini pada **23 November 2026**.
 
 ### Hasil singkat soal 1, 2, dan 4
 
